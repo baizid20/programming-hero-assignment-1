@@ -1,0 +1,37 @@
+
+.banner{
+    background-image: url("../images/Banner\ Image.png");
+   background-size: 90% 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+    border-radius: 16px;
+    width: 750px;
+    height: 350px;
+}
+.new{
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+ 
+}
+.year{
+color: #FFF;
+text-align: center;
+padding-top: 60px;
+font-family: Merriweather;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+}
+                                     /* this is discount section */
+.off{
+    color: red;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 10%;
+    font-size: larger;
+
+}
