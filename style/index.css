@@ -1,12 +1,15 @@
 
 .banner{
     background-image: url("../images/Banner\ Image.png");
-   background-size: 90% 100%;
+   background-size: 100% 100%;
    background-position: center;
    background-repeat: no-repeat;
     border-radius: 16px;
     width: 750px;
     height: 350px;
+    padding-left: 110px;
+    margin-left: 180px;
+
 }
 .new{
 color: #FFF;
@@ -33,5 +36,18 @@ font-weight: 400;
     font-family: 'Oswald', sans-serif;
     padding-top: 10%;
     font-size: larger;
-
+}
+.alls{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    
+}
+.are{
+    color:red;
+    font-size: smaller;
+    line-height: 1;
+}
+.size{
+    height: 150px;
+    weight: 300px;
 }
